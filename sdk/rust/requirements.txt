@@ -1,0 +1,7 @@
+cryptography==37.0.2
+mnemonic==0.20
+Pillow==9.1.1
+pysha3==1.0.2
+PyYAML==6.0
+pyzbar==0.1.9
+qrcode==7.3.1
